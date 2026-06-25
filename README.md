@@ -142,7 +142,7 @@ I build fast, benchmark rigorously, and care deeply about systems that **work in
 
 ## 🌱 Currently Building
 
-- 🔭 **SightVoice** — AI navigation assistant for visually impaired users (YOLOv11 + MiDaS depth estimation + BLIP captioning + offline TTS)
+
 - 📊 **Trackify** — Flask-based expense tracking web app with raw SQLite and Jinja2
 - 🧪 **DVC ML Pipelines** — Experiment versioning and hyperparameter tracking for reproducible ML research
 - 🎯 Actively seeking **ML / Computer Vision internship** roles
