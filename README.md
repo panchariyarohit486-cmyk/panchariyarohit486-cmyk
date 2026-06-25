@@ -22,7 +22,7 @@
 
 > *"I don't just study ML — I ship it."*
 
-I'm a **3rd-year B.Tech CSE student** at Bikaner Technical University (graduating May 2027), specializing in **Machine Learning and Computer Vision**. I independently designed, built, and deployed **two production-grade AI systems** from scratch — without a team or mentor — covering the complete ML lifecycle: data collection → preprocessing → model training → evaluation → cloud deployment.
+I'm a **4th-year B.Tech CSE student** at Bikaner Technical University (graduating May 2027), specializing in **Machine Learning and Computer Vision**. I independently designed, built, and deployed **two production-grade AI systems** from scratch — without a team or mentor — covering the complete ML lifecycle: data collection → preprocessing → model training → evaluation → cloud deployment.
 
 I build fast, benchmark rigorously, and care deeply about systems that **work in the real world**, not just in notebooks.
 
